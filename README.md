@@ -1,6 +1,19 @@
 # X13-PythonHash
-Python Hash Module for P2P Pools
+A python module for x13 PoW algorithm
 
-INSTALL
+## On your Desktop,
+```
+git clone https://github.com/chrisbagsrocks/X13-Hash.git && cd X13-Hash
+```
 
-python setup.py install
+## To Install:
+
+```
+sudo python setup.py install
+```
+   
+or
+    
+ ```
+ python setup.py install
+ ```
